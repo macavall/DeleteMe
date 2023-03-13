@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@main
+@main // main
 struct DeleteMeApp: App {
     var body: some Scene {
         WindowGroup {
